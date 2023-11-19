@@ -1,0 +1,37 @@
+.activity1 {
+  display: flex;
+  margin: 20px;
+  background-color: #c0d9c2; /* Blue Violet */
+  border-radius: 12px;
+  overflow: hidden;
+  width: 80%;
+}
+
+.activity1-image {
+  width: 100%; /* 너비를 줄임 */
+  overflow: hidden;
+  margin-top: 20%;
+}
+
+.activity1-image img {
+  width: 100%;
+  height: auto;
+  padding-left: 20%;
+}
+
+.activity1-content {
+  flex-grow: 1; /* 남은 공간을 모두 차지하도록 수정 */
+  padding: 20px;
+  color: #696969;
+  width: 900px;
+  font-size: x-large;
+}
+
+.activity1-content h2 {
+  color: #ff69b4; /* Hot Pink */
+}
+
+.activity1-content p {
+  line-height: 1.6;
+  margin-bottom: 10px;
+}

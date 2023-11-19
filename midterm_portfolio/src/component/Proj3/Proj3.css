@@ -1,0 +1,29 @@
+/* Proj3.css */
+
+.proj3 {
+  background-color: #ffe4b5; /* 미색(베이지) */
+  border: 2px solid #f08080; /* 연한 적색 */
+  border-radius: 12px;
+  overflow: hidden; /* 이미지를 컨테이너에 맞게 잘라주는 속성 */
+  max-width: 400px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 그림자 효과 추가 */
+}
+
+.proj3-image {
+  width: 100%;
+  height: auto;
+}
+
+.proj3-content {
+  padding: 20px;
+  font-size: x-large;
+}
+
+.proj3 h2 {
+  color: #ff6347; /* 갈색(진한 색상) */
+}
+
+.proj3 p {
+  color: #696969; /* 짙은 회색 */
+  line-height: 1.6;
+}

@@ -11,7 +11,7 @@ const Info = [
     Email: 'dayeee5@naver.com',
     Phone: '010-2426-9940',
     birth: '2000.02.25',
-    education: '불곡 고등학교 (2016.03 ~ 2019.01)',
+    education: '불곡고등학교 (2016.03 ~ 2019.01)',
     educationTwo: '가천대학교 컴퓨터공학사 (2022.03 ~ 2026.02)',
     intership: '당근마켓 2025 Summer Tech Intership',
     partTimeJob: '대형 영어학원 조교 (2022.10 ~ 2023.02)',

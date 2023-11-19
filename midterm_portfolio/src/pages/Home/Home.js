@@ -38,7 +38,7 @@ export default function Home() {
           <div class="col">
             <section class="hero is-success">
               <section class="section is-large">
-                <h1 class="home_title_R">저의 여정을</h1>
+                <h1 class="home_title_R">저의 개발 여정을</h1>
                 <h1 class="home_title_R2">소개합니다.</h1>
                 <div className="term-contents1" />
                 <h2 class="home_subTitle_R">앞으로도 지속될</h2>

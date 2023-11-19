@@ -35,6 +35,7 @@
   padding-bottom: 5%;
   font-weight: 1200;
   color: black;
+  text-align: end;
 }
 
 .home_subTitle_L {
@@ -49,10 +50,11 @@
   padding-bottom: 5%;
   font-weight: 900;
   color: black;
+  text-align: end;
 }
 .home_title_R2 {
   font-size: xx-large;
-  padding-bottom: 5%;
+  padding-bottom: 20%;
   font-weight: 900;
   color: black;
   text-align: end;

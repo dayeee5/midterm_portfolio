@@ -1,7 +1,7 @@
 .activity3 {
   display: flex;
   margin: 20px;
-  background-color: #c0d9c2; /* Blue Violet */
+  background-color: #F8F6CF;
   border-radius: 12px;
   overflow: hidden;
   width: 80%;
@@ -10,13 +10,13 @@
 .activity3-image {
   width: 100%; /* 너비를 줄임 */
   overflow: hidden;
-  margin-top: 25%;
+  margin-top: 0%;
 }
 
 .activity3-image img {
   width: 100%;
   height: auto;
-  padding-left: 20%;
+  padding-left: 10%;
 }
 
 .activity3-content {

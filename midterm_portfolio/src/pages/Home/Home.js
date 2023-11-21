@@ -26,10 +26,10 @@ export default function Home() {
                 </h1>
                 <div className="term-contents1" />
                 <h2 class="home_subTitle_L">
-                  <strong>혁신적인 솔루션</strong>을 만들어내는
+                  <strong>혁신적인 솔루션</strong>을  만들어내는
                 </h2>
                 <h2 class="home_subTitle_L">
-                  <strong>열정적인 개발자</strong>가 되기 위해 끊임없이
+                  <strong>열정적인 개발자</strong>가  되기 위해 끊임없이
                   도전합니다.
                 </h2>
               </section>

@@ -1,6 +1,6 @@
 import React from 'react';
 import './activity1.css';
-import act1 from 'https://dayeee5.github.io/midterm_portfolio/act1.png';
+import act1 from 'https://github.com/dayeee5/midterm_portfolio/src/component/activity1/act1.png';
 
 const Activity1 = () => {
   return (

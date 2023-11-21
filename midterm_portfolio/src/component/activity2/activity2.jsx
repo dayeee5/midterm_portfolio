@@ -1,6 +1,6 @@
 import React from 'react';
 import './activity2.css';
-import act2 from './act2.png';
+import act2 from 'https://dayeee5.github.io/midterm_portfolio/act2.png';
 
 const Activity2 = () => {
   return (

@@ -11,12 +11,12 @@ const Proj3 = () => {
         className="proj3-image"
       />
       <div className="proj3-content">
-        <h2>학사정보 데이터베이스 개발</h2>
+        <h2>학사 정보 데이터베이스 개발</h2>
         <p>
           <strong>진행 기간:</strong> 2024.04 ~ 2024.08
         </p>
         <p>
-          <strong>사용한 기술 스택:</strong> HTML, CSS, JavaScript, React
+          <strong>사용한 기술 스택:</strong> MySQL, HTML, CSS, JavaScript
         </p>
         <p>
           <strong>개요:</strong> 학생, 교수, 강좌, 성적 및 등록 정보를 저장하고

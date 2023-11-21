@@ -11,7 +11,7 @@ const Proj1 = () => {
         className="proj1-image"
       />
       <div className="proj1-content">
-        <h2>헬스케어 어플리케이션</h2>
+        <h2>헬스 케어 앱 개발</h2>
         <p>
           <strong>진행 기간:</strong> 2024.12 ~ 2025.04
         </p>

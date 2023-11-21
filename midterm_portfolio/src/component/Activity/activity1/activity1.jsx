@@ -17,12 +17,12 @@ const Activity1 = () => {
         </div>
         <div className="col">
           <div className="activity1-content">
-            <h2>IoT 보안 솔루션 개발</h2>
+            <h2>IoT 보안 위협 시나리오 공모전</h2>
             <p>
               <strong>진행 기간:</strong> 2024.10 ~ 2024.12
             </p>
             <p>
-              <strong>사용한 기술 스택:</strong> Java, HTTP
+              <strong>사용한 기술 스택:</strong> Java, HTTPS
             </p>
             <p>
               <strong>개요:</strong> IoT 디바이스의 증가로 인해 보안 위협도

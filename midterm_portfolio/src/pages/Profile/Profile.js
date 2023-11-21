@@ -26,8 +26,11 @@ const Info = [
 
 export default function Profile() {
   const skills = [
-    { skill: 'React', level: 80 }, // 예: 0부터 100까지의 레벨
-    { skill: 'JavaScript', level: 90 },
+    { skill: 'Python', level: 90 }, // 예: 0부터 100까지의 레벨
+    { skill: 'C', level: 70 },
+    { skill: 'C++', level: 80 },
+    { skill: 'Java', level: 90 },
+    { skill: 'React', level: 90 },
   ];
   return (
     <div className="main_layout">
@@ -64,7 +67,7 @@ export default function Profile() {
                       <strong>Email | </strong> {Info[0].Email}
                     </div>
                     <div className="betweenLine">
-                      <strong>번 호 | </strong> {Info[0].Phone}
+                      <strong>전화번호 | </strong> {Info[0].Phone}
                     </div>
                     <div className="betweenLine">
                       <strong>생년월일 | </strong> {Info[0].birth}
@@ -97,16 +100,12 @@ export default function Profile() {
                     <td>{Info[0].educationTwo}</td>
                   </tr>
                   <tr>
-                    <td>경력</td>
+                    <td>인턴</td>
                     <td>{Info[0].intership}</td>
                   </tr>
                   <tr>
                     <td>아르바이트</td>
                     <td>{Info[0].partTimeJob}</td>
-                  </tr>
-                  <tr>
-                    <td className="skills">기술 스킬</td>
-                    <td>HTML, CSS, JavaScript, React, Node.js</td>
                   </tr>
                 </tbody>
               </table>
@@ -118,7 +117,7 @@ export default function Profile() {
               <table className="result-table">
                 <thead>
                   <tr>
-                    <th>분류</th>
+                    <th>항목</th>
                     <th>내용</th>
                   </tr>
                 </thead>
@@ -186,7 +185,7 @@ export default function Profile() {
               </article>
               <article class="message is-warning">
                 <div class="message-header">
-                  <p>입사 지원동기</p>
+                  <p>입사 지원 동기</p>
                   <button class="delete" aria-label="delete"></button>
                 </div>
                 <div class="message-body">

@@ -22,7 +22,7 @@ const Activity3 = () => {
               <strong>진행 기간:</strong> 2024.08.25 ~ 08.27
             </p>
             <p>
-              <strong>사용한 기술 스택:</strong> HTML, CSS, JavaScript, React
+              <strong>사용한 기술 스택:</strong> Node.js, HTML, CSS, JavaScript, React
             </p>
             <p>
               <strong>개요:</strong> 무박 3일 동안 디지털 신기술 기반 SW융합

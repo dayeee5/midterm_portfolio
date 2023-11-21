@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 import Contact from './pages/Contact/Contact';
 import Profile from './pages/Profile/Profile';
@@ -11,7 +11,7 @@ import Experience from './pages/Project/Project';
 export default function App() {
   return (
     <>
-      <Router>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Navbar />
         <main>
           <Routes>
@@ -21,7 +21,7 @@ export default function App() {
             <Route path="/contact" element={<Contact />} />
           </Routes>
         </main>
-      </Router>
+      </BrowserRouter>
       <div className="main">
         <Footer />
       </div>

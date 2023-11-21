@@ -1,10 +1,10 @@
 import React from 'react';
-import Activity1 from '../../component/activity1/activity1';
-import Activity2 from '../../component/activity2/activity2';
-import Activity3 from '../../component/activity3/activity3';
-import Proj1 from '../../component/Proj1/Proj1';
-import Proj2 from '../../component/Proj2/Proj2';
-import Proj3 from '../../component/Proj3/Proj3';
+import Activity1 from '../../component/Activity/activity1/activity1';
+import Activity2 from '../../component/Activity/activity2/activity2';
+import Activity3 from '../../component/Activity/activity3/activity3';
+import Proj1 from '../../component/Project/Proj1/Proj1';
+import Proj2 from '../../component/Project/Proj2/Proj2';
+import Proj3 from '../../component/Project/Proj3/Proj3';
 import '../global.css';
 import './Project.css';
 
@@ -52,3 +52,4 @@ export default function Experience() {
     </>
   );
 }
+

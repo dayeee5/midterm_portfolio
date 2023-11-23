@@ -4,7 +4,7 @@ import aniDev from './dev.json';
 import './Home.css';
 import '../global.css';
 import 'bulma/css/bulma.min.css';
-import SocialLinks from '../../component/SocialLink/SocialLink';
+import SocialLinks from './SocialLink';
 
 const style = {
   height: '100%',

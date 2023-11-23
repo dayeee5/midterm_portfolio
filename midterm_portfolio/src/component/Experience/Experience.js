@@ -1,12 +1,12 @@
 import React from 'react';
-import Activity1 from '../../component/Activity/activity1/activity1';
-import Activity2 from '../../component/Activity/activity2/activity2';
-import Activity3 from '../../component/Activity/activity3/activity3';
-import Proj1 from '../../component/Project/Proj1/Proj1';
-import Proj2 from '../../component/Project/Proj2/Proj2';
-import Proj3 from '../../component/Project/Proj3/Proj3';
+import Activity1 from './Activity/Act1/Act1';
+import Activity2 from './Activity/Act2/Act2';
+import Activity3 from './Activity/Act3/Act3';
+import Proj1 from './Project/Proj1/Proj1';
+import Proj2 from './Project/Proj2/Proj2';
+import Proj3 from './Project/Proj3/Proj3';
 import '../global.css';
-import './Project.css';
+import './Experience.css';
 
 export default function Experience() {
   return (

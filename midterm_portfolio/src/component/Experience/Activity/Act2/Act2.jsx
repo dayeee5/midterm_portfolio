@@ -1,5 +1,5 @@
 import React from 'react';
-import './activity2.css';
+import './Act2.css';
 import act2 from './act2.png';
 
 const Activity2 = () => {

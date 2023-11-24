@@ -1,4 +1,4 @@
-.activity1 {
+.act1 {
   display: flex;
   margin: 20px;
   background-color: #F8F6CF;
@@ -7,19 +7,19 @@
   width: 80%;
 }
 
-.activity1-image {
+.act1-image {
   width: 100%; /* 너비를 줄임 */
   overflow: hidden;
   margin-top: 0%;
 }
 
-.activity1-image img {
+.act1-image img {
   width: 100%;
   height: auto;
   padding-left: 10%;
 }
 
-.activity1-content {
+.act1-content {
   flex-grow: 1; /* 남은 공간을 모두 차지하도록 수정 */
   padding: 20px;
   color: #696969;
@@ -27,11 +27,11 @@
   font-size: x-large;
 }
 
-.activity1-content h2 {
+.act1-content h2 {
   color: #ff69b4; /* Hot Pink */
 }
 
-.activity1-content p {
+.act1-content p {
   line-height: 1.6;
   margin-bottom: 10px;
 }

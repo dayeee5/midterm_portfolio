@@ -2,21 +2,21 @@ import React from 'react';
 import './Act1.css';
 import act1 from './act1.png';
 
-const Activity1 = () => {
+const Act1 = () => {
   return (
-    <div className="activity1">
+    <div className="act1">
       <div className="row">
         <div className="col">
-          <div className="activity1-image">
+          <div className="act1-image">
             <img
               src={act1} // 이미지 경로에 실제 이미지 경로를 넣어주세요
-              alt="Activity 1"
-              className="activity1-image"
+              alt="Act 1"
+              className="act1-image"
             />
           </div>
         </div>
         <div className="col">
-          <div className="activity1-content">
+          <div className="act1-content">
             <h2>IoT 보안 위협 시나리오 공모전</h2>
             <p>
               <strong>진행 기간:</strong> 2024.10 ~ 2024.12
@@ -47,4 +47,4 @@ const Activity1 = () => {
   );
 };
 
-export default Activity1;
+export default Act1;

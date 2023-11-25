@@ -1,7 +1,7 @@
 import React from 'react';
-import Activity1 from './Activity/Act1/Act1';
-import Activity2 from './Activity/Act2/Act2';
-import Activity3 from './Activity/Act3/Act3';
+import Act1 from './Activity/Act1/Act1';
+import Act2 from './Activity/Act2/Act2';
+import Act3 from './Activity/Act3/Act3';
 import Proj1 from './Project/Proj1/Proj1';
 import Proj2 from './Project/Proj2/Proj2';
 import Proj3 from './Project/Proj3/Proj3';
@@ -38,13 +38,13 @@ export default function Experience() {
         <div className="activity_scope">
           <div className="col">
             <div className="row">
-              <Activity1 />
+              <Act1 />
             </div>
             <div className="row">
-              <Activity2 />
+              <Act2 />
             </div>
             <div className="row">
-              <Activity3 />
+              <Act3 />
             </div>
           </div>
         </div>
